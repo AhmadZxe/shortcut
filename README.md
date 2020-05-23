@@ -1,5 +1,5 @@
-# terkey
-Termux keys shortcut
+# shortcut
+Termux shortcut
 
 # usage
 $pkg install python<br>
